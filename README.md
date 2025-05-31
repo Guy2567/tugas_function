@@ -14,3 +14,9 @@ Tanpa import, modul eksternal, atau menu interaktif.
 
 ## Author
 M. Jafar Sodik (Guy2567)
+
+## Hasil Uji Program
+Berikut ini screenshot hasil uji program:
+
+![Hasil Uji 1](hasil_uji_program-function1.jpg)
+![Hasil Uji 2](hasil_uji_program-function2.jpg)
